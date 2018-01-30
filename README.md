@@ -1,2 +1,2 @@
 # hello-world
-My First Repository
+Hello there, Im Mark, I want to learn Programming from scrath to advance.
